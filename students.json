@@ -1,16 +1,16 @@
 {
     "1": {
         "id": 1,
-        "name": "Alice Smith",
+        "name": "varma",
         "age": 21,
         "grade": "A+",
-        "email": "alice.smith@example.com"
+        "email": "varma.13@example.com"
     },
     "2": {
         "id": 2,
         "name": "indra",
         "age": 21,
         "grade": "A+",
-        "email": "alice.smith@example.com"
+        "email": "indra@234@example.com"
     }
 }
